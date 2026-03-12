@@ -1,5 +1,5 @@
 name: "OpenClaw Dashboard"
-slug: "openclaw-dashboard"
+slug: "openclaw-dashboard-local"
 version: "1.0.0"
 summary: "Professional local dashboard for OpenClaw with cute robot presentation, live status, trend visualization, chat, and optional auto-heal controls."
 tags:
